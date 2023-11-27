@@ -1,4 +1,4 @@
-﻿#include <iostream>
+﻿пше #include <iostream>
 #include <windows.h>
 #include "Person.h"
 #include "Student.h"
